@@ -52,4 +52,12 @@
 |  |
 | ------- |
 | [0191-number-of-1-bits](https://github.com/munukutlapraveen88/leetcode/tree/master/0191-number-of-1-bits) |
+## Linked List
+|  |
+| ------- |
+| [0203-remove-linked-list-elements](https://github.com/munukutlapraveen88/leetcode/tree/master/0203-remove-linked-list-elements) |
+## Recursion
+|  |
+| ------- |
+| [0203-remove-linked-list-elements](https://github.com/munukutlapraveen88/leetcode/tree/master/0203-remove-linked-list-elements) |
 <!---LeetCode Topics End-->
