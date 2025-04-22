@@ -37,6 +37,7 @@
 | [0066-plus-one](https://github.com/munukutlapraveen88/leetcode/tree/master/0066-plus-one) |
 | [0136-single-number](https://github.com/munukutlapraveen88/leetcode/tree/master/0136-single-number) |
 | [0733-flood-fill](https://github.com/munukutlapraveen88/leetcode/tree/master/0733-flood-fill) |
+| [1677-matrix-diagonal-sum](https://github.com/munukutlapraveen88/leetcode/tree/master/1677-matrix-diagonal-sum) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -74,4 +75,5 @@
 |  |
 | ------- |
 | [0733-flood-fill](https://github.com/munukutlapraveen88/leetcode/tree/master/0733-flood-fill) |
+| [1677-matrix-diagonal-sum](https://github.com/munukutlapraveen88/leetcode/tree/master/1677-matrix-diagonal-sum) |
 <!---LeetCode Topics End-->
