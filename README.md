@@ -26,6 +26,7 @@
 | ------- |
 | [0009-palindrome-number](https://github.com/munukutlapraveen88/leetcode/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/munukutlapraveen88/leetcode/tree/master/0013-roman-to-integer) |
+| [0070-climbing-stairs](https://github.com/munukutlapraveen88/leetcode/tree/master/0070-climbing-stairs) |
 | [3830-find-closest-person](https://github.com/munukutlapraveen88/leetcode/tree/master/3830-find-closest-person) |
 ## Array
 |  |
@@ -36,4 +37,12 @@
 |  |
 | ------- |
 | [0136-single-number](https://github.com/munukutlapraveen88/leetcode/tree/master/0136-single-number) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/munukutlapraveen88/leetcode/tree/master/0070-climbing-stairs) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/munukutlapraveen88/leetcode/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
