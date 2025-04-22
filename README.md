@@ -26,12 +26,14 @@
 | ------- |
 | [0009-palindrome-number](https://github.com/munukutlapraveen88/leetcode/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/munukutlapraveen88/leetcode/tree/master/0013-roman-to-integer) |
+| [0066-plus-one](https://github.com/munukutlapraveen88/leetcode/tree/master/0066-plus-one) |
 | [0070-climbing-stairs](https://github.com/munukutlapraveen88/leetcode/tree/master/0070-climbing-stairs) |
 | [3830-find-closest-person](https://github.com/munukutlapraveen88/leetcode/tree/master/3830-find-closest-person) |
 ## Array
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/munukutlapraveen88/leetcode/tree/master/0001-two-sum) |
+| [0066-plus-one](https://github.com/munukutlapraveen88/leetcode/tree/master/0066-plus-one) |
 | [0136-single-number](https://github.com/munukutlapraveen88/leetcode/tree/master/0136-single-number) |
 ## Bit Manipulation
 |  |
