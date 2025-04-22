@@ -8,6 +8,7 @@
 | [0013-roman-to-integer](https://github.com/munukutlapraveen88/leetcode/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/munukutlapraveen88/leetcode/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/munukutlapraveen88/leetcode/tree/master/0020-valid-parentheses) |
+| [0742-to-lower-case](https://github.com/munukutlapraveen88/leetcode/tree/master/0742-to-lower-case) |
 ## Stack
 |  |
 | ------- |
