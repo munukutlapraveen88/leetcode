@@ -22,6 +22,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/munukutlapraveen88/leetcode/tree/master/0001-two-sum) |
 | [0013-roman-to-integer](https://github.com/munukutlapraveen88/leetcode/tree/master/0013-roman-to-integer) |
+| [0817-design-hashmap](https://github.com/munukutlapraveen88/leetcode/tree/master/0817-design-hashmap) |
 ## Math
 |  |
 | ------- |
@@ -38,6 +39,7 @@
 | [0066-plus-one](https://github.com/munukutlapraveen88/leetcode/tree/master/0066-plus-one) |
 | [0136-single-number](https://github.com/munukutlapraveen88/leetcode/tree/master/0136-single-number) |
 | [0733-flood-fill](https://github.com/munukutlapraveen88/leetcode/tree/master/0733-flood-fill) |
+| [0817-design-hashmap](https://github.com/munukutlapraveen88/leetcode/tree/master/0817-design-hashmap) |
 | [1677-matrix-diagonal-sum](https://github.com/munukutlapraveen88/leetcode/tree/master/1677-matrix-diagonal-sum) |
 ## Bit Manipulation
 |  |
@@ -60,6 +62,7 @@
 |  |
 | ------- |
 | [0203-remove-linked-list-elements](https://github.com/munukutlapraveen88/leetcode/tree/master/0203-remove-linked-list-elements) |
+| [0817-design-hashmap](https://github.com/munukutlapraveen88/leetcode/tree/master/0817-design-hashmap) |
 ## Recursion
 |  |
 | ------- |
@@ -77,4 +80,12 @@
 | ------- |
 | [0733-flood-fill](https://github.com/munukutlapraveen88/leetcode/tree/master/0733-flood-fill) |
 | [1677-matrix-diagonal-sum](https://github.com/munukutlapraveen88/leetcode/tree/master/1677-matrix-diagonal-sum) |
+## Design
+|  |
+| ------- |
+| [0817-design-hashmap](https://github.com/munukutlapraveen88/leetcode/tree/master/0817-design-hashmap) |
+## Hash Function
+|  |
+| ------- |
+| [0817-design-hashmap](https://github.com/munukutlapraveen88/leetcode/tree/master/0817-design-hashmap) |
 <!---LeetCode Topics End-->
