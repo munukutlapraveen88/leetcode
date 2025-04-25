@@ -27,6 +27,7 @@
 | [0001-two-sum](https://github.com/munukutlapraveen88/leetcode/tree/master/0001-two-sum) |
 | [0013-roman-to-integer](https://github.com/munukutlapraveen88/leetcode/tree/master/0013-roman-to-integer) |
 | [0141-linked-list-cycle](https://github.com/munukutlapraveen88/leetcode/tree/master/0141-linked-list-cycle) |
+| [0169-majority-element](https://github.com/munukutlapraveen88/leetcode/tree/master/0169-majority-element) |
 | [0782-jewels-and-stones](https://github.com/munukutlapraveen88/leetcode/tree/master/0782-jewels-and-stones) |
 | [0817-design-hashmap](https://github.com/munukutlapraveen88/leetcode/tree/master/0817-design-hashmap) |
 ## Math
@@ -44,6 +45,7 @@
 | [0001-two-sum](https://github.com/munukutlapraveen88/leetcode/tree/master/0001-two-sum) |
 | [0066-plus-one](https://github.com/munukutlapraveen88/leetcode/tree/master/0066-plus-one) |
 | [0136-single-number](https://github.com/munukutlapraveen88/leetcode/tree/master/0136-single-number) |
+| [0169-majority-element](https://github.com/munukutlapraveen88/leetcode/tree/master/0169-majority-element) |
 | [0733-flood-fill](https://github.com/munukutlapraveen88/leetcode/tree/master/0733-flood-fill) |
 | [0817-design-hashmap](https://github.com/munukutlapraveen88/leetcode/tree/master/0817-design-hashmap) |
 | [1677-matrix-diagonal-sum](https://github.com/munukutlapraveen88/leetcode/tree/master/1677-matrix-diagonal-sum) |
@@ -63,6 +65,7 @@
 ## Divide and Conquer
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/munukutlapraveen88/leetcode/tree/master/0169-majority-element) |
 | [0191-number-of-1-bits](https://github.com/munukutlapraveen88/leetcode/tree/master/0191-number-of-1-bits) |
 ## Linked List
 |  |
@@ -120,4 +123,12 @@
 | [0112-path-sum](https://github.com/munukutlapraveen88/leetcode/tree/master/0112-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/munukutlapraveen88/leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/munukutlapraveen88/leetcode/tree/master/0145-binary-tree-postorder-traversal) |
+## Sorting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/munukutlapraveen88/leetcode/tree/master/0169-majority-element) |
+## Counting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/munukutlapraveen88/leetcode/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
