@@ -30,6 +30,7 @@
 | [0141-linked-list-cycle](https://github.com/munukutlapraveen88/leetcode/tree/master/0141-linked-list-cycle) |
 | [0169-majority-element](https://github.com/munukutlapraveen88/leetcode/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/munukutlapraveen88/leetcode/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/munukutlapraveen88/leetcode/tree/master/0268-missing-number) |
 | [0782-jewels-and-stones](https://github.com/munukutlapraveen88/leetcode/tree/master/0782-jewels-and-stones) |
 | [0817-design-hashmap](https://github.com/munukutlapraveen88/leetcode/tree/master/0817-design-hashmap) |
 ## Math
@@ -40,6 +41,7 @@
 | [0066-plus-one](https://github.com/munukutlapraveen88/leetcode/tree/master/0066-plus-one) |
 | [0070-climbing-stairs](https://github.com/munukutlapraveen88/leetcode/tree/master/0070-climbing-stairs) |
 | [0258-add-digits](https://github.com/munukutlapraveen88/leetcode/tree/master/0258-add-digits) |
+| [0268-missing-number](https://github.com/munukutlapraveen88/leetcode/tree/master/0268-missing-number) |
 | [2383-add-two-integers](https://github.com/munukutlapraveen88/leetcode/tree/master/2383-add-two-integers) |
 | [3830-find-closest-person](https://github.com/munukutlapraveen88/leetcode/tree/master/3830-find-closest-person) |
 ## Array
@@ -49,6 +51,7 @@
 | [0066-plus-one](https://github.com/munukutlapraveen88/leetcode/tree/master/0066-plus-one) |
 | [0136-single-number](https://github.com/munukutlapraveen88/leetcode/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/munukutlapraveen88/leetcode/tree/master/0169-majority-element) |
+| [0268-missing-number](https://github.com/munukutlapraveen88/leetcode/tree/master/0268-missing-number) |
 | [0733-flood-fill](https://github.com/munukutlapraveen88/leetcode/tree/master/0733-flood-fill) |
 | [0817-design-hashmap](https://github.com/munukutlapraveen88/leetcode/tree/master/0817-design-hashmap) |
 | [1677-matrix-diagonal-sum](https://github.com/munukutlapraveen88/leetcode/tree/master/1677-matrix-diagonal-sum) |
@@ -57,6 +60,7 @@
 | ------- |
 | [0136-single-number](https://github.com/munukutlapraveen88/leetcode/tree/master/0136-single-number) |
 | [0191-number-of-1-bits](https://github.com/munukutlapraveen88/leetcode/tree/master/0191-number-of-1-bits) |
+| [0268-missing-number](https://github.com/munukutlapraveen88/leetcode/tree/master/0268-missing-number) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -131,6 +135,7 @@
 | ------- |
 | [0169-majority-element](https://github.com/munukutlapraveen88/leetcode/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/munukutlapraveen88/leetcode/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/munukutlapraveen88/leetcode/tree/master/0268-missing-number) |
 ## Counting
 |  |
 | ------- |
@@ -143,4 +148,8 @@
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/munukutlapraveen88/leetcode/tree/master/0258-add-digits) |
+## Binary Search
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/munukutlapraveen88/leetcode/tree/master/0268-missing-number) |
 <!---LeetCode Topics End-->
