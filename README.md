@@ -35,6 +35,7 @@
 | [0387-first-unique-character-in-a-string](https://github.com/munukutlapraveen88/leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0782-jewels-and-stones](https://github.com/munukutlapraveen88/leetcode/tree/master/0782-jewels-and-stones) |
 | [0817-design-hashmap](https://github.com/munukutlapraveen88/leetcode/tree/master/0817-design-hashmap) |
+| [1848-sum-of-unique-elements](https://github.com/munukutlapraveen88/leetcode/tree/master/1848-sum-of-unique-elements) |
 ## Math
 |  |
 | ------- |
@@ -58,6 +59,7 @@
 | [0733-flood-fill](https://github.com/munukutlapraveen88/leetcode/tree/master/0733-flood-fill) |
 | [0817-design-hashmap](https://github.com/munukutlapraveen88/leetcode/tree/master/0817-design-hashmap) |
 | [1677-matrix-diagonal-sum](https://github.com/munukutlapraveen88/leetcode/tree/master/1677-matrix-diagonal-sum) |
+| [1848-sum-of-unique-elements](https://github.com/munukutlapraveen88/leetcode/tree/master/1848-sum-of-unique-elements) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -151,6 +153,7 @@
 | ------- |
 | [0169-majority-element](https://github.com/munukutlapraveen88/leetcode/tree/master/0169-majority-element) |
 | [0387-first-unique-character-in-a-string](https://github.com/munukutlapraveen88/leetcode/tree/master/0387-first-unique-character-in-a-string) |
+| [1848-sum-of-unique-elements](https://github.com/munukutlapraveen88/leetcode/tree/master/1848-sum-of-unique-elements) |
 ## Simulation
 |  |
 | ------- |
