@@ -20,6 +20,7 @@
 | [0144-binary-tree-preorder-traversal](https://github.com/munukutlapraveen88/leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/munukutlapraveen88/leetcode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0775-n-ary-tree-preorder-traversal](https://github.com/munukutlapraveen88/leetcode/tree/master/0775-n-ary-tree-preorder-traversal) |
+| [0776-n-ary-tree-postorder-traversal](https://github.com/munukutlapraveen88/leetcode/tree/master/0776-n-ary-tree-postorder-traversal) |
 ## Trie
 |  |
 | ------- |
@@ -103,6 +104,7 @@
 | [0404-sum-of-left-leaves](https://github.com/munukutlapraveen88/leetcode/tree/master/0404-sum-of-left-leaves) |
 | [0733-flood-fill](https://github.com/munukutlapraveen88/leetcode/tree/master/0733-flood-fill) |
 | [0775-n-ary-tree-preorder-traversal](https://github.com/munukutlapraveen88/leetcode/tree/master/0775-n-ary-tree-preorder-traversal) |
+| [0776-n-ary-tree-postorder-traversal](https://github.com/munukutlapraveen88/leetcode/tree/master/0776-n-ary-tree-postorder-traversal) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -137,6 +139,7 @@
 | [0145-binary-tree-postorder-traversal](https://github.com/munukutlapraveen88/leetcode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0404-sum-of-left-leaves](https://github.com/munukutlapraveen88/leetcode/tree/master/0404-sum-of-left-leaves) |
 | [0775-n-ary-tree-preorder-traversal](https://github.com/munukutlapraveen88/leetcode/tree/master/0775-n-ary-tree-preorder-traversal) |
+| [0776-n-ary-tree-postorder-traversal](https://github.com/munukutlapraveen88/leetcode/tree/master/0776-n-ary-tree-postorder-traversal) |
 ## Binary Tree
 |  |
 | ------- |
