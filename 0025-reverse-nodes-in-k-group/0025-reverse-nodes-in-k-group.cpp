@@ -2,7 +2,8 @@ class Solution {
 public:
 
     ListNode* reverseKGroup(ListNode* head, int k) {
-   
+        if(k == 1 || head == NULL) return head;
+        
         ListNode* temp = head;
         int cnt = 0;
         while(temp && cnt < k){
