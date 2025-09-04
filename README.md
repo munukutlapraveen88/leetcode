@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/munukutlapraveen88/leetcode/tree/master/0001-two-sum) |
+| [0088-merge-sorted-array](https://github.com/munukutlapraveen88/leetcode/tree/master/0088-merge-sorted-array) |
 | [0200-number-of-islands](https://github.com/munukutlapraveen88/leetcode/tree/master/0200-number-of-islands) |
 | [0347-top-k-frequent-elements](https://github.com/munukutlapraveen88/leetcode/tree/master/0347-top-k-frequent-elements) |
 ## Hash Table
@@ -42,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0088-merge-sorted-array](https://github.com/munukutlapraveen88/leetcode/tree/master/0088-merge-sorted-array) |
 | [0347-top-k-frequent-elements](https://github.com/munukutlapraveen88/leetcode/tree/master/0347-top-k-frequent-elements) |
 ## Heap (Priority Queue)
 |  |
@@ -86,4 +88,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/munukutlapraveen88/leetcode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+## Two Pointers
+|  |
+| ------- |
+| [0088-merge-sorted-array](https://github.com/munukutlapraveen88/leetcode/tree/master/0088-merge-sorted-array) |
 <!---LeetCode Topics End-->
